@@ -12,5 +12,9 @@ int main()
     cin>>q;
     //aaaq
     ///asasdasda
+    int t=0;
+    cin>>t;
+    //aaaasdasdsa
+    //bbb
     return 0;
 }
