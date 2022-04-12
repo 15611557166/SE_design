@@ -4,4 +4,4 @@ project(rjgc_test)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(rjgc_test
-        test.cpp)
+        src/test.cpp)
