@@ -8,6 +8,10 @@ int main()
     cout << "I am OK!"<<endl;
     cout << "ahahaha" << endl;
     cout << "hyy" << endl;
+    int q=0;
+    cin>>q;
+    //aaaq
+    ///asasdasda
     int t=0;
     cin>>t;
     //aaaasdasdsa
