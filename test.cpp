@@ -9,5 +9,6 @@ int main()
     cout << "ahahaha" << endl;
     cout << "hyy" << endl;
     cout << "p" << endl;
+    cin>>p;
     return 0;
 }
