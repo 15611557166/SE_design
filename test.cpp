@@ -8,8 +8,9 @@ int main()
     cout << "I am OK!"<<endl;
     cout << "ahahaha" << endl;
     cout << "hyy" << endl;
-    int t=0;
-    cin>>t;
-    //aaa
+    int q=0;
+    cin>>q;
+    //aaaq
+    ///asasdasda
     return 0;
 }
