@@ -8,5 +8,6 @@ int main()
     cout << "I am OK!"<<endl;
     cout << "ahahaha" << endl;
     cout << "hyy" << endl;
+    cin>>p;
     return 0;
 }
