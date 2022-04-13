@@ -10,6 +10,8 @@ int main()
     cout << "hyy" << endl;
     int t=0;
     cin>>t;
+    t=1;
+    t=2;
     //aaaasdasdsa
     //bbb
     return 0;
